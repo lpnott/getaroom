@@ -46,7 +46,7 @@ define([], function() {
         env: 'localhost',
         Skylink: {
           apiMCUKey: '7bcba74c-ee42-4fb7-ba17-94a9edb3c1bf',
-          apiNoMCUKey: '7e31b061-71e6-4dd7-bd55-516579973930'
+          apiNoMCUKey: 'd01af995-1e98-4116-8645-11bfc90c8d29'
         }
       };
   }
